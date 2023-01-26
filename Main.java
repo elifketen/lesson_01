@@ -10,9 +10,6 @@ public class Main
 	 c = a + b;
 	 
     System.out.println("a = "+ a + " b = " + b + " c = " + c);
-	 
-		
-		
-		
+	
 	}
 }
